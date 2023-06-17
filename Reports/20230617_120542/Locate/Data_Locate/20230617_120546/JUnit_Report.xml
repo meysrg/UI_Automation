@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Data_Locate" time="32.386" tests="1" failures="0" errors="0">
+   <testsuite name="Data_Locate" tests="1" failures="0" errors="0" time="32.386" skipped="0" timestamp="2023-06-17 12:05:57" hostname="USER - DESKTOP-CV682CL" id="Test Suites/Locate/Data_Locate">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\USER\\Katalon Studio\\UI Automation\\Reports\\20230617_120542\\Locate\\Data_Locate\\20230617_120546"/>
+         <property name="logFiles" value="C:\\Users\\USER\\Katalon Studio\\UI Automation\\Reports\\20230617_120542\\Locate\\Data_Locate\\20230617_120546\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="USER - DESKTOP-CV682CL"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.43.16"/>
+         <property name="sessionId" value="0cf3c0aab27860595a4222bab5a7cf91"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC001" time="31.807" classname="Test Cases/TC001" status="PASSED">
+         <system-out><![CDATA[2023-06-17 12:05:58 - [TEST_CASE][PASSED] - Test Cases/TC001: Test Cases/TC001
+
+2023-06-17 12:06:01 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-17 12:06:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-17 12:06:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-17 12:06:09 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-17 12:06:09 - [TEST_STEP][PASSED] - navigateToUrl("https://www.service.nsw.gov.au/"): Navigate to 'https://www.service.nsw.gov.au/' successfully
+
+2023-06-17 12:06:14 - [MESSAGE][PASSED] - Navigate to 'https://www.service.nsw.gov.au/' successfully
+
+2023-06-17 12:06:14 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Home  Service NSW/input_Service NSW makes it easier to find g_bdb6ca"), "Apply for a number plate"): Text 'Apply for a number plate' is set on object 'Object Repository/Page_Home  Service NSW/input_Service NSW makes it easier to find g_bdb6ca'
+
+2023-06-17 12:06:15 - [MESSAGE][PASSED] - Text 'Apply for a number plate' is set on object 'Object Repository/Page_Home  Service NSW/input_Service NSW makes it easier to find g_bdb6ca'
+
+2023-06-17 12:06:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Home  Service NSW/button_apply for a number plate_button butt_2c4e78")): Object: 'Object Repository/Page_Home  Service NSW/button_apply for a number plate_button butt_2c4e78' is clicked on
+
+2023-06-17 12:06:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Home  Service NSW/button_apply for a number plate_button butt_2c4e78' is clicked on
+
+2023-06-17 12:06:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Search  Service NSW/a_Find locations")): Object: 'Object Repository/Page_Search  Service NSW/a_Find locations' is clicked on
+
+2023-06-17 12:06:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Search  Service NSW/a_Find locations' is clicked on
+
+2023-06-17 12:06:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Find a Service NSW location  Service NSW/InputSearch"), ""): Text '' is set on object 'Object Repository/Page_Find a Service NSW location  Service NSW/InputSearch'
+
+2023-06-17 12:06:28 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Find a Service NSW location  Service NSW/InputSearch'
+
+2023-06-17 12:06:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Find a Service NSW location  Service NSW/button_Sydney Olympic Park 2127_button butt_9c60bd")): Object: 'Object Repository/Page_Find a Service NSW location  Service NSW/button_Sydney Olympic Park 2127_button butt_9c60bd' is clicked on
+
+2023-06-17 12:06:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Find a Service NSW location  Service NSW/button_Sydney Olympic Park 2127_button butt_9c60bd' is clicked on
+
+2023-06-17 12:06:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-17 12:06:30 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-17 12:05:57 - [TEST_SUITE][PASSED] - Data_Locate: Test Cases/TC001]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

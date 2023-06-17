@@ -1,0 +1,42 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Data_Locate,Chrome 114.0.0.0,,,2023-06-17 12:01:07,2023-06-17 12:02:08,1m - 1.837s,PASSED
+,,,,,,,
+Test Cases/TC001,Chrome 114.0.0.0,,,2023-06-17 12:01:07,2023-06-17 12:01:24,16.769s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-17 12:01:07,2023-06-17 12:01:10,2.591s,PASSED
+"navigateToUrl(""https://www.service.nsw.gov.au/"")",Chrome 114.0.0.0,,,2023-06-17 12:01:10,2023-06-17 12:01:13,3.526s,PASSED
+"setText(findTestObject(""Object Repository/Page_Home  Service NSW/input_Service NSW makes it easier to find g_bdb6ca""), ""Apply for a number plate"")",Chrome 114.0.0.0,,,2023-06-17 12:01:13,2023-06-17 12:01:14,1.002s,PASSED
+"click(findTestObject(""Object Repository/Page_Home  Service NSW/button_apply for a number plate_button butt_2c4e78""))",Chrome 114.0.0.0,,,2023-06-17 12:01:14,2023-06-17 12:01:19,4.400s,PASSED
+"click(findTestObject(""Object Repository/Page_Search  Service NSW/a_Find locations""))",Chrome 114.0.0.0,,,2023-06-17 12:01:19,2023-06-17 12:01:21,2.110s,PASSED
+"setText(findTestObject(""Object Repository/Page_Find a Service NSW location  Service NSW/InputSearch""), """")",Chrome 114.0.0.0,,,2023-06-17 12:01:21,2023-06-17 12:01:22,1.551s,PASSED
+"click(findTestObject(""Object Repository/Page_Find a Service NSW location  Service NSW/button_Sydney Olympic Park 2127_button butt_9c60bd""))",Chrome 114.0.0.0,,,2023-06-17 12:01:22,2023-06-17 12:01:23,0.487s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-17 12:01:23,2023-06-17 12:01:24,0.679s,PASSED
+,,,,,,,
+Test Cases/TC001,Chrome 114.0.0.0,,,2023-06-17 12:01:24,2023-06-17 12:01:38,14.812s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-17 12:01:24,2023-06-17 12:01:25,1.247s,PASSED
+"navigateToUrl(""https://www.service.nsw.gov.au/"")",Chrome 114.0.0.0,,,2023-06-17 12:01:25,2023-06-17 12:01:28,3.044s,PASSED
+"setText(findTestObject(""Object Repository/Page_Home  Service NSW/input_Service NSW makes it easier to find g_bdb6ca""), ""Apply for a number plate"")",Chrome 114.0.0.0,,,2023-06-17 12:01:28,2023-06-17 12:01:29,0.930s,PASSED
+"click(findTestObject(""Object Repository/Page_Home  Service NSW/button_apply for a number plate_button butt_2c4e78""))",Chrome 114.0.0.0,,,2023-06-17 12:01:29,2023-06-17 12:01:33,4.031s,PASSED
+"click(findTestObject(""Object Repository/Page_Search  Service NSW/a_Find locations""))",Chrome 114.0.0.0,,,2023-06-17 12:01:33,2023-06-17 12:01:36,3.041s,PASSED
+"setText(findTestObject(""Object Repository/Page_Find a Service NSW location  Service NSW/InputSearch""), """")",Chrome 114.0.0.0,,,2023-06-17 12:01:36,2023-06-17 12:01:37,1.385s,PASSED
+"click(findTestObject(""Object Repository/Page_Find a Service NSW location  Service NSW/button_Sydney Olympic Park 2127_button butt_9c60bd""))",Chrome 114.0.0.0,,,2023-06-17 12:01:37,2023-06-17 12:01:38,0.425s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-17 12:01:38,2023-06-17 12:01:38,0.692s,PASSED
+,,,,,,,
+Test Cases/TC001,Chrome 114.0.0.0,,,2023-06-17 12:01:39,2023-06-17 12:01:54,14.992s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-17 12:01:39,2023-06-17 12:01:40,1.367s,PASSED
+"navigateToUrl(""https://www.service.nsw.gov.au/"")",Chrome 114.0.0.0,,,2023-06-17 12:01:40,2023-06-17 12:01:43,3.558s,PASSED
+"setText(findTestObject(""Object Repository/Page_Home  Service NSW/input_Service NSW makes it easier to find g_bdb6ca""), ""Apply for a number plate"")",Chrome 114.0.0.0,,,2023-06-17 12:01:43,2023-06-17 12:01:44,0.960s,PASSED
+"click(findTestObject(""Object Repository/Page_Home  Service NSW/button_apply for a number plate_button butt_2c4e78""))",Chrome 114.0.0.0,,,2023-06-17 12:01:44,2023-06-17 12:01:49,4.390s,PASSED
+"click(findTestObject(""Object Repository/Page_Search  Service NSW/a_Find locations""))",Chrome 114.0.0.0,,,2023-06-17 12:01:49,2023-06-17 12:01:51,2.438s,PASSED
+"setText(findTestObject(""Object Repository/Page_Find a Service NSW location  Service NSW/InputSearch""), """")",Chrome 114.0.0.0,,,2023-06-17 12:01:51,2023-06-17 12:01:52,1.112s,PASSED
+"click(findTestObject(""Object Repository/Page_Find a Service NSW location  Service NSW/button_Sydney Olympic Park 2127_button butt_9c60bd""))",Chrome 114.0.0.0,,,2023-06-17 12:01:52,2023-06-17 12:01:53,0.497s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-17 12:01:53,2023-06-17 12:01:54,0.660s,PASSED
+,,,,,,,
+Test Cases/TC001,Chrome 114.0.0.0,,,2023-06-17 12:01:54,2023-06-17 12:02:08,14.806s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-17 12:01:54,2023-06-17 12:01:55,1.359s,PASSED
+"navigateToUrl(""https://www.service.nsw.gov.au/"")",Chrome 114.0.0.0,,,2023-06-17 12:01:55,2023-06-17 12:01:58,2.988s,PASSED
+"setText(findTestObject(""Object Repository/Page_Home  Service NSW/input_Service NSW makes it easier to find g_bdb6ca""), ""Apply for a number plate"")",Chrome 114.0.0.0,,,2023-06-17 12:01:58,2023-06-17 12:01:59,0.910s,PASSED
+"click(findTestObject(""Object Repository/Page_Home  Service NSW/button_apply for a number plate_button butt_2c4e78""))",Chrome 114.0.0.0,,,2023-06-17 12:01:59,2023-06-17 12:02:03,4.522s,PASSED
+"click(findTestObject(""Object Repository/Page_Search  Service NSW/a_Find locations""))",Chrome 114.0.0.0,,,2023-06-17 12:02:03,2023-06-17 12:02:06,2.924s,PASSED
+"setText(findTestObject(""Object Repository/Page_Find a Service NSW location  Service NSW/InputSearch""), """")",Chrome 114.0.0.0,,,2023-06-17 12:02:06,2023-06-17 12:02:07,0.995s,PASSED
+"click(findTestObject(""Object Repository/Page_Find a Service NSW location  Service NSW/button_Sydney Olympic Park 2127_button butt_9c60bd""))",Chrome 114.0.0.0,,,2023-06-17 12:02:07,2023-06-17 12:02:08,0.431s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-17 12:02:08,2023-06-17 12:02:08,0.667s,PASSED

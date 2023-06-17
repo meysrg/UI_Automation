@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>8e0a4aaa-ce4b-40a4-8d6e-10c6ae1f25a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='apply for a number plate'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.button--primary > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>4044bd9e-2bb7-4d23-aebe-2337f53f8a55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>31</value>
+      <webElementGuid>eba5ee5e-deec-4a3f-9673-8e40e2fd2363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>32</value>
+      <webElementGuid>0fda2a2c-3db2-44c0-a7c8-0dcca7f55ad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 31 32</value>
+      <webElementGuid>5a4b40be-4a69-4d97-ad5e-19b7518a9c13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>19bd24ec-7a1e-426e-9fc1-3fef700fd640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-content&quot;)/article[@class=&quot;landing-page toc-container&quot;]/section[@class=&quot;personalised-content&quot;]/div[@class=&quot;region&quot;]/div[@class=&quot;personalised-variant block&quot;]/header[@class=&quot;page-hero page-hero--search&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;page-hero__title page-hero--offset&quot;]/form[@class=&quot;form--hero-search-group form__input-group&quot;]/div[@class=&quot;form__actions&quot;]/button[@class=&quot;button button--primary&quot;]/svg[1]</value>
+      <webElementGuid>76dcaa44-6f79-4dc8-bc97-527ff48e541e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='apply for a number plate'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>714b89cd-1020-46f3-b430-4a53f0a2ba04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service NSW makes it easier to find government information and services'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>c0703e18-9e9f-42bd-8de0-a8d5b4cd0d4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Service NSW, Woy Woy'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>f80ce8f3-c245-4e48-b84d-f53c8e7df8a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Service NSW, Albury'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>d074b943-4636-471c-8c58-dcac30147279</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
